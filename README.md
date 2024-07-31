@@ -1,0 +1,1 @@
+# django-storages-s3-auth-bug
